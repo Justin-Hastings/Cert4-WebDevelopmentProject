@@ -1,0 +1,65 @@
+.white {
+	background-color:white;
+}
+.taskbar {
+	background-color:yellow;
+	height:40px;
+}
+a {
+	font-size:20px;
+	cursor:pointer;
+	color:#000000;
+	padding-right:20px;
+}
+.title {
+	text-align: center;
+	padding-top: 50px;
+}
+.phoneNumber {
+	text-align: right;
+	padding-bottom: 0px;
+	padding-top: 190px;
+	padding-left: 130px;
+}
+.phoneNum {
+	text-align: right;
+	padding-bottom: 0px;
+	padding-left: 570px;
+}
+h1 {
+	text-decoration:underline;
+	text-decoration-color:yellow;
+}
+.space1 {
+	height:30px;
+}
+h2 {
+	text-decoration:underline;
+	text-decoration-color:yellow;
+}
+#p2 {
+	font-size:20px;
+}
+p {
+	padding:0px;
+	margin:0px;
+}
+#p3 {
+	font-size:20px;
+}
+address {
+	font-size:40px;
+}
+.footer {
+	height:40px;
+	background-color:yellow;
+}
+.facebookLogo {
+	float:left;
+}
+.instagramLogo {
+	float:left;
+}
+.copyright {
+	float:right;
+}
